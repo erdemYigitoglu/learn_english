@@ -7,4 +7,3 @@ songs, stories, niews articles scientific and blog articles, different acsents a
 * content presentation chalenges student's skills as well as motivates him/her for more. 
 *evaluation for progress and guidance for future. 
 *flexible and growing content and evaluation.
-*
